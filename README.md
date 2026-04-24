@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- <p align="center"> I'm Ashutosh Kumar, Aspiring Full Stack Developer. </p>
+ <p> I'm Ashutosh Kumar, Aspiring Full Stack Developer. </p>
 
 
 ---
